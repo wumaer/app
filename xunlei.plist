@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<string>NO</string>
 					<key>url</key>
-					<string>http://www.xsbbs.org/image/logo.png</string>
+					<string>http://res.wumaer.com/app/images/wanjiketang.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<string>NO</string>
 					<key>url</key>
-					<string>http://www.xsbbs.org/image/logo.png</string>
+					<string>http://res.wumaer.com/app/images/wanjiketang.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.xunlei.iosthunder</string>
 				<key>bundle-version</key>
-				<string>5.29.1.2316</string>
+				<string>5.31.1.4204</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>迅雷</string>
 				<key>title</key>
-				<string>迅雷beta-更多好玩关注公众号：玩机课堂</string>
+				<string>迅雷beta</string>
 			</dict>
 		</dict>
 	</array>
